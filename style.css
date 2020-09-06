@@ -11,9 +11,9 @@ html {
 }
 
 h1{
-  text-align: center;
+  font-size: 3rem;
   color:orange;
-  text-transform: uppercase;
+  
 }
 hr{
   border-color: #F05F44;
@@ -22,20 +22,23 @@ hr{
 }
 
 .buffer{
-  height:10rem;
+  height: 10rem;
 }
 .btn-primary{
   background-color: #F05F44;
   border-color: #F05f44;
+  text-transform: uppercase;
 }
 .btn-primary:hover{
   background-color: #ee4b08;
   border-color: #ee4b08;
   border-width: 4px;
+  
 }
 .btn {
   font-weight: 700;
   border-radius: 300px;
+  text-transform: uppercase;
 }
 .btn-xl {
   padding: 1rem 2rem;

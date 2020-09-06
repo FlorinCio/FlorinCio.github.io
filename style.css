@@ -13,12 +13,12 @@ html {
 h1{
   font-size: 3rem;
   color:orange;
-  
 }
+
 hr{
   border-color: #F05F44;
   border-width: 3px;
-  max-width: 65px;;
+  max-width: 65px;
 }
 
 .buffer{
@@ -27,7 +27,7 @@ hr{
 .btn-primary{
   background-color: #F05F44;
   border-color: #F05f44;
-  text-transform: uppercase;
+
 }
 .btn-primary:hover{
   background-color: #ee4b08;
